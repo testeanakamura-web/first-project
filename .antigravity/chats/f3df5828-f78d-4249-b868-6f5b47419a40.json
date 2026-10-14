@@ -40,6 +40,18 @@
       "created_at": "2026-10-14T03:40:21.339Z",
       "sender": "ios",
       "is_cancelled": false
+    },
+    {
+      "id": "317e8e9b-1c1b-42a6-b496-7cfc4de84bb6",
+      "role": "agent",
+      "content": "Google Antigravity（開発環境・AIエージェントプラットフォーム）は、ローカル環境でのコード実行やターミナル操作、ビルドを行う性質上、**PC向け（デスクトップアプリ、IDE、CLI）がメイン**となっており、PC版と同等のフル機能を持つ**スマホ専用ネイティブアプリ（iOS / Android）は現時点ではありません**。\n\nただし、スマートフォンから利用・確認する方法として以下の手段があります：\n\n### 1. スマホのブラウザ（Web版・リモート管理）\n* スマホのブラウザ（Safari や Chrome など）から Antigravity のダッシュボードにアクセスできます。\n* 「ホーム画面に追加（PWA）」することで、外出先から**エージェントへの指示出し・進捗監視・タスクの承認**などを手元で行うコンパニオン的な使い方が可能です。\n\n---\n\n> [!TIP]\n> **現在作成中のサイトをスマホで確認したい場合**\n> スマホのブラウザから以下のプレビューURLを開くことで、現在の表示やレスポンシブデザインの確認が可能です：\n> **[プレビューサイトを開く](https://antigravity.luch.dev/site/2903e003-2c22-4f2e-9a75-77a34c5b2317/cd4d2741b9b2daae88bce833/)**",
+      "status": "completed",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "0cbf820b-ec09-41d4-a189-12d27b8adca2",
+      "created_at": "2026-10-14T03:41:04.847Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }
